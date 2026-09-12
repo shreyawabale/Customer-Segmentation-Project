@@ -168,4 +168,4 @@ Customer-Segmentation-Project
 ├── customer_segments_scatter.png
 ├── segment_profile_heatmap.png
 │
-└── screenshots
+
